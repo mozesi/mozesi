@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mzeechongoloka" target="blank"><img src="https://img.shields.io/twitter/follow/mzeechongoloka?logo=twitter&style=for-the-badge" alt="mzeechongoloka" /></a> </p>
 
-- 🔭 I’m currently working on[pakaya](https://github.com/mozesi/pakayalara))
+- 🔭 I’m currently working on [pakaya](https://github.com/mozesi/pakayalara)
 
 - 🌱 I’m currently learning **Goodgle UX/UI,Google Data Analytic, Google Project Management**
 
