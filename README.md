@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mzeechongoloka" target="blank"><img src="https://img.shields.io/twitter/follow/mzeechongoloka?logo=twitter&style=for-the-badge" alt="mzeechongoloka" /></a> </p>
 
-- 🔭 I’m currently working on [pakaya](https://github.com/mozesi/pakayalara)
-
 - 🌱 I’m currently learning **Goodgle UX/UI,Google Data Analytic, Google Project Management**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.kauzganga.apps.sumunamalombo](https://play.google.com/store/apps/details?id=com.kauzganga.apps.sumunamalombo)
 
-- 📝 I regularly write articles on [https://mosesmsukwa.com/](https://mosesmsukwa.com/)
+- 📝 I regularly write articles on [https://mosesmsukwa.com/](https://mozesi.tech/)
 
 - 💬 Ask me about **Android Development, web development**
 
