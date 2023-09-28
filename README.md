@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.kauzganga.apps.sumunamalombo](https://play.google.com/store/apps/details?id=com.kauzganga.apps.sumunamalombo)
 
-- 📝 I regularly write articles on [https://mosesmsukwa.com/](https://mozesi.tech/)
+- 📝 I regularly write articles on [https://mozesi.tech/](https://mozesi.tech/)
 
 - 💬 Ask me about **Android Development, web development**
 
